@@ -38,4 +38,5 @@ captures the dynamic execution of a system
 - Activity diagrams (widely used)
 ## Use Case Diagrams
 capture the requirements of a system from teh user's perspective
+![]()
 - Inclusion
