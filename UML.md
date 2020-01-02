@@ -54,3 +54,5 @@ capture the requirements of a system from teh user's perspective
   - action
   - activity
   - transition
+  
+![image](https://github.com/Swiftwdwd/Object-Oriented-Analysis-Design-Notes/blob/master/statechart.png)
