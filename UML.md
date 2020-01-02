@@ -69,3 +69,29 @@ Models the static relationships between the components of a system
 - Parameter list
   - Name
   - Type
+  
+![]()
+## Class Relationships
+- Dependency
+- Association
+- Aggregation 
+- Composition 
+- Generalization 
+- Realization
+## Dependency
+Dependency is the weakest relationship
+- class A uses class B
+- Depicted by a dotted arrow
+
+![]()
+## Association
+Indicates a stronger relationship
+- class A has a class B
+- Use number labels to indicate multiplicity
+  - Use * to indicate arbitrary cardinality
+- You can also explicitly name the associations
+- And make them conditional
+
+## Aggregation
+Indicates a strong association
+- class A owns a class B
