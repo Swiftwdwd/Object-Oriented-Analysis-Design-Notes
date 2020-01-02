@@ -55,4 +55,17 @@ capture the requirements of a system from teh user's perspective
   - activity
   - transition
   
-![image](https://github.com/Swiftwdwd/Object-Oriented-Analysis-Design-Notes/blob/master/statechart.png)
+![image1](https://github.com/Swiftwdwd/Object-Oriented-Analysis-Design-Notes/blob/master/statechart.png)
+## Class Diagram
+Models the static relationships between the components of a system
+- The multiplicity of a class is specified by a number in the upper right corner of the component
+  - Usually omitted and assumed to be more than 1
+  - Specifying a multiplicity of 1 indicates the class should be a singleton
+- Visibility
+  - Public +
+  - Private -
+  - Protected #
+  - Package ~
+- Parameter list
+  - Name
+  - Type
