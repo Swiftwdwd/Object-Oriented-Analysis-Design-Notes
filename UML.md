@@ -38,5 +38,19 @@ captures the dynamic execution of a system
 - Activity diagrams (widely used)
 ## Use Case Diagrams
 capture the requirements of a system from teh user's perspective
+
 ![image](https://github.com/Swiftwdwd/Object-Oriented-Analysis-Design-Notes/blob/master/QQ截图20200102112234.png)
-- Inclusion
+- Inclusion (e.g., push button include in ride)
+- Generalization/specialization (e.g., push train button and push station button are specializations of push button)
+- Extension expresses an exceptional variation of a use case (e.g., derail is an exceptional ride)
+## Statechart Diagrams
+- Another way of specifying behavioral requirements (Built on state machines)
+- Show the various stages of an entity during its lifetime
+- Can be used to show the state transitions of methods, objects, components
+  - Behavioral state machines show the behavior of a particular element in a system
+  - Protocol state machines show the behavior of a protocol
+- Components
+  - state
+  - action
+  - activity
+  - transition
